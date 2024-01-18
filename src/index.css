@@ -3,6 +3,7 @@
 :root {
   --color-main: #B53CEE;
   --color-hover: #860BBF;
+  --color-next: #333;
 }
 * {
   margin: 0;
