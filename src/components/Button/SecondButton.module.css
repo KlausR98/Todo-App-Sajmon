@@ -1,0 +1,17 @@
+.SecondButton {
+    color: var(--color-main);
+    background-color: transparent;
+    border: 1px solid var(--color-main);
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    padding: 4px 8px;
+    text-align: center;
+    line-height: 1.5;
+    transition: all 0.4s;
+ }
+ 
+ .SecondButton:hover {
+    color: white;
+    background-color: var(--color-main);
+ }
